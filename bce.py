@@ -91,12 +91,3 @@ if __name__ == "__main__":
     predictions = model.predict(X)
     accuracy = np.mean(predictions == y)
     print(f"Training accuracy: {accuracy * 100:.2f}%")
-
-# data scientist: 
-# swe entry level coding, communication, 
-# system design (slack youtube, whatsapp, stripe), behavioral
-# conflict handle resume experience
-# 
-# mle: live
-# ml 八股文, phone 2 rounds, onsite 4-6
-# 
